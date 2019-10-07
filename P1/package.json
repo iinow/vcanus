@@ -1,0 +1,18 @@
+{
+  "name": "P1",
+  "version": "1.0.0",
+  "description": "breadType: cream\r recipe\r flour: 100\r water: 100\r cream: 200",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  },
+  "scripts": {
+    "com": "ts-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
